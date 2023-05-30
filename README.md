@@ -2,7 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
- 
+<h2> 🎓 DEGREE </h2>
+
+Bachelor Of Engineering (BEng)
+
 <h2> 📄 CERTIFICATIONS </h2>
 
 [Ethical Hacking Essentials](https://www.linkedin.com/posts/nwekeanthonyolisa_informationsecurity-cybersecurity-ciso-activity-7059964929126055938-E-Z_?utm_source=share&utm_medium=member_desktop)
